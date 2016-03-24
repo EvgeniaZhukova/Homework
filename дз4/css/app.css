@@ -5,11 +5,10 @@
   background-image: url(../img/amy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
 }
 h2 {
   padding-left: 30px;
-  position: relative;
-  bottom: auto;
   color: white;
   font-family: 'Arial', sans-serif;
 }
@@ -31,6 +30,5 @@ strong {
   padding-left: 30px;
 }
 h3 {
-
   color: white;
 }
