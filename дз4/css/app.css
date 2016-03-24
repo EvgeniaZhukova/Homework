@@ -7,6 +7,12 @@
   background-size: cover;
   position: relative;
 }
+
+.position {
+  position: absolute;
+   bottom: 0;
+}
+
 h2 {
   padding-left: 30px;
   color: white;
