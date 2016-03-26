@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.intro {
+  width: 700px;
+  height: 300px;
+  background: rgb(196, 231, 154);
+  padding-left: 30px;
+  position: relative;
+}
+.header {
+  width: 200px;
+  height: 50px;
+  background: rgb(20, 94, 23);
+  margin-bottom: 20px;
+}
+.paragraph {
+  width: 350px;
+  height: 70px;
+  background: rgb(148, 193, 0);
+}
+.text {
+  position: fixed;
+  bottom: 50px;
+}
