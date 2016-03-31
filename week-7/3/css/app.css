@@ -10,6 +10,7 @@
 .navbar {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .logo {
   width: 200px;
@@ -37,7 +38,8 @@
   display: flex;
 }
 .secondary-item {
-  width: 250px;
+  width: 100%;
+  flex-grow:1;
   height: 130px;
   background: rgb(41, 77, 0);
   margin-right: 20px;
