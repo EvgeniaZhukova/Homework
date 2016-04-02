@@ -5,11 +5,11 @@
 .main {
   width: 600px;
   background: rgb(196, 231, 154);
-  justify-content: center;
-  align-items: center;
+
 }
 .container {
   width: 500px;
+  margin: 0 auto;
 
 }
 .navbar {

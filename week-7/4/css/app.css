@@ -48,13 +48,13 @@
   margin-bottom: 30px;
 }
 .primary-item {
-  width: 100%;
+
   height: 120px;
   background: rgb(41, 77, 0);
   flex-grow: 2;
 }
 .secondary-item {
-  width: 100%;
+  
   height: 120px;
   background: rgb(41, 77, 0);
   margin-right: 10px;
