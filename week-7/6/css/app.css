@@ -5,12 +5,13 @@
   width: 650px;
   background: rgb(196, 231, 154);
   padding: 40px;
+  align-items: flex-end;
 
   display: flex;
 }
 .text {
   width: 330px;
-  height: 90px;
+
 }
 .logo {
   width: 100px;
@@ -47,6 +48,8 @@
   height: 220px;
   background: rgb(41, 77, 0);
   border-radius: 120px;
- margin-bottom: 30px;
+  margin-bottom: 30px;
+
+
 
 }
